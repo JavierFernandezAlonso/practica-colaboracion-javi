@@ -1,4 +1,5 @@
 public class Calculadora {
+  int total = 0;
 // Suma
 public int sumar(int a, int b) {
 return a + b;
