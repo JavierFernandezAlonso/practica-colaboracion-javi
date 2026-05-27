@@ -23,4 +23,8 @@ return (double) a / b;
 public void mostrarResultado(String operacion, double resultado) {
 System.out.println("Resultado de " + operacion + ": " + resultado);
 }
+  // Lucia Hdez Pestana: Método para mostrar resultados
+    public void mostrarResultado(String operacion, double resultado) {
+        System.out.println("Resultado de " + operacion + ": " + resultado);
+    }
 }
